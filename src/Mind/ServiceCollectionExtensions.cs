@@ -11,7 +11,7 @@ namespace Mind
             a = 2;
             a = 3;
             a = 4;
-
+            a = 5;
 
             return collection;
         }
