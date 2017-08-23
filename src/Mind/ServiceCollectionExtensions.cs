@@ -8,6 +8,7 @@ namespace Mind
         public static IServiceCollection AddMindCore(this IServiceCollection collection)
         {
 
+
             return collection;
         }
     }
