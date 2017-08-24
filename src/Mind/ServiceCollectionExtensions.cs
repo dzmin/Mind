@@ -20,6 +20,7 @@ namespace Mind
             a = 22;
             a = 23;
             a = 24;
+            a = 30;
             return collection;
         }
     }
