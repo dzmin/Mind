@@ -9,7 +9,7 @@ namespace Mind
         {
             int count = 0 + 1 + 2;
             int x = 5;
-            int y = 0;
+            int y = 7;
 
             return collection;
         }
