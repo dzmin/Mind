@@ -13,7 +13,7 @@ namespace Mind
             a = 4;
             a = 5;
             a = 6;
-
+            a = 7;
             return collection;
         }
     }
